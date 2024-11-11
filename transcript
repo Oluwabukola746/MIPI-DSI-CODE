@@ -1,0 +1,3 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# ** Warning: (vsim-144) Detected unknown compiler 'C:/intelFPGA_lite/17.1/modelsim_ase\gcc-4.2.1-mingw32vc12\bin\g++.exe'. Make sure that the CppPath INI file variable or the argument to the -cpppath option if set, is set to a path that exists
+# OpenFile C:/Users/Progressive/Desktop/BUKOLA/BUK_1.v
